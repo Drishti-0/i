@@ -1,0 +1,13 @@
+div{
+    height: 27px;
+    width: 200px;
+    background-color: aqua;
+    text-align: center;
+    margin-left: 600px;
+}
+h2{
+    color: red;
+}
+body{
+    background-color: black;
+}
